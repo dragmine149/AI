@@ -1,0 +1,40 @@
+30/01/23
+========
+ - alright, nice and peacful. did maths ME1, fixed some isues with EXP001
+30/01/23
+========
+ - Did some more ME1, checked what i did (Still confused on some stuff). Released version 1.2.6 of PythonFunctions
+30/01/23
+========
+ - Ooh regex intresting. Thought it was more usless stuff
+30/01/23
+========
+ - AAAA, makes sense but annoying
+30/01/23
+========
+ - It coursework, went well got a good amount done.
+31/01/23
+========
+ - Tried to get some work done but computer and phone had failed to connect how i wanted it to. Finally fixed it and did some maths for a while
+31/01/23
+========
+ - Explored the issue of PythonFunctions install cryptography using [google] and (hopefully) fixed that. Also did more maths
+31/01/23
+========
+ - Maths lesson, alright notcied some very stupid mistakes (didn't answer question etc. Got set homework to do to finish going through my paper)
+31/01/23
+========
+ - More maths, something intresting. Took a while to understand why things are how they are but after a while got the basics down.
+31/01/23
+========
+ - Binary, just made some stuff using bits
+Traceback (most recent call last):
+  File "/mnt/d/Code/AI/CalendarCreate/ParseData2.py", line 23, in <module>
+    parse_data('data.txt')
+  File "/mnt/d/Code/AI/CalendarCreate/ParseData2.py", line 13, in parse_data
+    date = datetime.datetime.strptime(line, '%d/%m/%y')
+  File "/usr/lib/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib/python3.10/_strptime.py", line 352, in _strptime
+    raise ValueError("unconverted data remains: %s" %
+ValueError: unconverted data remains:  -- Teacher strike day (1)

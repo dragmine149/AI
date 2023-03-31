@@ -1,0 +1,522 @@
+30/01/23
+=======
+L1 - alright, nice and peacful. did maths ME1, fixed some isues with EXP001
+30/01/23
+=======
+L2 - Did some more ME1, checked what i did (Still confused on some stuff). Released version 1.2.6 of PythonFunctions
+30/01/23
+=======
+L3 - Ooh regex intresting. Thought it was more usless stuff
+30/01/23
+=======
+L4 - AAAA, makes sense but annoying
+30/01/23
+=======
+L5 - It coursework, went well got a good amount done.
+31/01/23
+=======
+L1 - Tried to get some work done but computer and phone had failed to connect how i wanted it to. Finally fixed it and did some maths for a while
+31/01/23
+=======
+L2 - Explored the issue of PythonFunctions install cryptography using [google] and (hopefully) fixed that. Also did more maths
+31/01/23
+=======
+L3 - Maths lesson, alright notcied some very stupid mistakes (didn't answer question etc. Got set homework to do to finish going through my paper)
+31/01/23
+=======
+L4 - More maths, something intresting. Took a while to understand why things are how they are but after a while got the basics down.
+31/01/23
+=======
+L5 - Binary, just made some stuff using bits
+31/01/23
+=======
+01/02/23 -- Teacher strike day (1)
+31/01/23
+=======
+L1 - Did some work on PythonFunctions.Searching outside, quite nice just a bit too cold to spend a whole day out there at the moment.
+31/01/23
+=======
+L2 - Did some more work on PythonFunctions.Searching after finding a place to work
+31/01/23
+=======
+Break - Played osu! Lazer
+31/01/23
+=======
+L3 - Did some IT work on laptop from what i could recall from memory, also installed nodejs.
+31/01/23
+=======
+L4 - Finished first part of posts. Probably redraft it tomorrow on the computers. Someone spraied in the PS16 room, it smells now. Need to check powerpoint for more of the brief which i can't access at the moment. So just going to leave the rest for another day. Should be doing more, but still have a week to do so. Continued to play and made some changes to PythonFunctions.
+31/01/23
+=======
+Lunch - Went to find a new spot, couldnt find anything so headed back to original spot.
+31/01/23
+=======
+L5 - WOOL. Finished v1.3.0 of PythonFunctions. Went through (finished) maths trig paper we did in class. Done that homework.
+02/02/23
+=======
+L1 - Maths, basically learnt how to do stuff that i could do on old calculator on new calculator but better.
+02/02/23
+=======
+L2 - Okay, that what it was. Hu... More homework and i don't get the second part of that lesson.
+02/02/23
+=======
+L3 - It work, copied over wednesday to computer, rewrote a bit
+02/02/23
+=======
+L4 - More it work, stoped and played after ~1/2h
+02/02/23
+=======
+L5 - More databases, also got confused on a joke because came in a bit too late
+03/02/23
+=======
+L1 - IT, did coursework
+03/02/23
+=======
+L2 - More IT, more coursework
+03/02/23
+=======
+Break - Found out that steam auto update ToF and drained 3gb data (yay)
+03/02/23
+=======
+L3 -Trying to get minecraft to load. Did some other small (very small stuff)
+03/02/23
+=======
+L4 - More minecraft, got pixel, added clear just need write.
+03/02/23
+=======
+L5 - More minecraft, got screen + write just now need a bus.
+06/02/23
+=======
+L1 - Maths, straggling with wifi. The school network is really loosing my trust as it tried to force me to log in like 10 times on laptop. Other than that, got like a half / quator of maths satistics done.
+06/02/23
+=======
+L2 - Random card for "Working Hard...", also finished maths satisitics homework. Tried to clean bottom of phone out a bit as well. Still not 100% sure on what "Sampling Frame" and "Sampling unit" is... Got random whatsapp message... (Probably just randomly got lucky, because i didn't give them mine). Finished excersise 2A in satistics.
+06/02/23
+=======
+L3 - Computer science, eh, not useful did own stuff.
+06/02/23
+=======
+L4 - Summary. Started minewswepear, released kinda broken 1.3.1
+06/02/23
+=======
+L5 - IT, did work, had nice chat w/ class + teacher.
+07/02/23
+=======
+L1 - ss without the first s. Maths revision.
+07/02/23
+=======
+L2 - ditto
+07/02/23
+=======
+L3 - maths, marked paper from homework
+07/02/23
+=======
+L4 - maths, confusing suvat questions
+07/02/23
+=======
+L5 - PythonFunctions, Colours update
+08/02/23
+=======
+L1 - Computer Science, Basic ERDs
+08/02/23
+=======
+L2 - Computer Science, Normalisation
+08/02/23
+=======
+L3 - IT, coursework
+08/02/23
+=======
+L4 - IT, coursework
+08/02/23
+=======
+L5 - Enrichment, uni talk. Intresting ish.
+08/02/23
+=======
+After School - Maths, load place got though Mixed Excersise 3
+09/02/23
+=======
+L1 - Maths, nice lesson learnt some stuff. Mainly finding a better medium.
+09/02/23
+=======
+L2 - Mixed Excersie 9 practisse on Mechaics
+09/02/23
+=======
+L3 - IT work,
+09/02/23
+=======
+L4 - More IT work
+09/02/23
+=======
+L5 - Computer Science, SQL recap basically
+10/02/23
+=======
+L1 - IT, coursework finishing that off
+10/02/23
+=======
+L2 - IT, still finishing it off
+10/02/23
+=======
+L3 - Study, but did IT coursework, finished that off and sent it.
+10/02/23
+=======
+L4 - IT homework, Computer Science Tips and tricks powerpoint.
+10/02/23
+=======
+L5 - Maths, more revision learnt something
+13/02/23
+=======
+L1 - After finding place, did revision. Restarted computer at least once (audio)
+13/02/23
+=======
+L2 - More maths revision. Restarted computer at least once (audio)
+13/02/23
+=======
+L3 - Computer Science, BNF
+13/02/23
+=======
+L4 - Computer Science, BNF
+13/02/23
+=======
+L5 - Python functions work + CS homework
+14/02/23
+=======
+L1 - Maths Supported study, Filled up MME sheet with Revision Exercise
+14/02/23
+=======
+L2 - Maths w/ Ian Maynard-Smith. Got helped on some stuff got stuck on went through more of RE2
+14/02/23
+=======
+L3 - MMM (Maths Mini Mock)
+14/02/23
+=======
+L4 - MMM (Maths Mini Mock)
+14/02/23
+=======
+L5 - Took it easy, had lunch found the issue to my Text-Based adeventure game and fixed it. Hopefully work should go quicker on that now.
+15/02/23
+=======
+L1 - Computer science, helped class with normalisation (3nf)
+15/02/23
+=======
+L2 - Did some work on PythonFunctions (V1.4.5). Watched chess game
+15/02/23
+=======
+L3 - IT, Social Media Part B
+15/02/23
+=======
+L4 - IT, Social Media Part B. Had some funny occurences with Ding Rawbell.
+15/02/23
+=======
+L5 - Work on python-Battleships, v1.4.6 on PythonFunctions
+16/02/23
+=======
+L1 - Maths, Expanding on what we already could do
+16/02/23
+=======
+L2 - Maths, back to basics and wow this was hard
+16/02/23
+=======
+L3 - Did some random stuff, CSTBAG, Editing, Playing, Researchin
+16/02/23
+=======
+L4 - ^^ (ditto)
+16/02/23
+=======
+L5 - Computer science databases. Me did help hehe
+17/02/23
+=======
+L1/L2 - IT not much happened. Learing Aim B
+17/02/23
+=======
+L3/L4 - Not much happened again, did some developing played games, some editing.
+17/02/23
+=======
+L5 - did me own stuff
+17/02/23
+=======
+27/02/23 -- Back after half term
+17/02/23
+=======
+L1, L2 - Maths spicy question finished w/ john. Wasn't really fun to do.
+17/02/23
+=======
+L3, L4 - Computer science, hash tables.
+17/02/23
+=======
+L5 - IT, looking at small local business and seeing if social media would help them.
+28/02/23
+=======
+L1 - Supported study (definitly like it's just another study period but in a specific location. We don't get any "Support"). Tried doing a double spicy maths got 1 spicy but the second exploaded brain. Went to fix some code.
+28/02/23
+=======
+L2 - Did the Maths 5aDay (although it was only one question today?). Attempted to recreate the holoCure logo but failed (terrible). Went to fix some code, finished homework.
+28/02/23
+=======
+L3 - Maths, finished learning everything under this mode and what it means.
+28/02/23
+=======
+L4 - Maths, got paper back had some fun with vectors triangles and forces.
+28/02/23
+=======
+L5 - Continued work on fancade project after speaking with ian about the app.
+28/02/23
+=======
+01/03/23 -- Teacher Strike day (2)
+28/02/23
+=======
+L1 - Exported video, Worked on some programs, played a bit
+28/02/23
+=======
+L2 - Same as L1
+28/02/23
+=======
+L3 - PS16 area, played some osu!lazer, bit of work on programs. Bit of work on fancade.
+28/02/23
+=======
+L4 - PS16 area, same as L3, got some homework done, had to leave because room got too "Heavy" air and felt like sufficating. Some y13 know me and ask me if i'm alright, although i don't really want to speak to them in a crowded area like that.
+28/02/23
+=======
+L5 - Enrichment, parlement speaker + govement based activities.
+02/03/23
+=======
+L1 - Maths, more staticistics, working out what would happen with coding. (Change the data without having to recount, etc)
+02/03/23
+=======
+L2 - Maths, mechanics, newtons laws, fact that g = 9.8, f=ma, w=mg
+02/03/23
+=======
+L3 - PythonFunctions version 1.4.9
+02/03/23
+=======
+L4 - Played really
+02/03/23
+=======
+Lunch - Attempted to use mastadon api
+02/03/23
+=======
+L5 - computer science, went though exam (D), covered SELECT.
+03/03/23
+=======
+L1 - IT, read (out load silently) coursework, found some errors and random wtf moments.
+03/03/23
+=======
+L2 - IT, more coursework stuff. Got some suggestions back. Mainly the pictures of what i included.
+03/03/23
+=======
+L3 - Maths homework (not fun). Found different answer but same principle on maths.stackoverflow
+03/03/23
+=======
+L4 - PythonFunctions version 1.4.10
+03/03/23
+=======
+Lunch - Coding Club, started work on a small mini project. Just going to do mine based off the spacestation theme.
+03/03/23
+=======
+L5 - Maths, went though some stuff. Test and other things. Some stuff in there i seem like really stupid to not have noticied eariler
+06/03/23
+=======
+L1 - Maths, the daily questions, homework. Integration is something, will need to check about that. Coding is not that bad though
+06/03/23
+=======
+L2 - It, CS, PF, just finishing off some things that needed to be done. Released v1.4.10 of PythonFunctions (ish), Started finding more social media images for IT, Finished wk 14 of homework for CS.
+06/03/23
+=======
+L3, L4 - CS, Basic stuff really (Data types, making a car, etc)
+06/03/23
+=======
+L5 - IT, not my lesson officially but it is something that would be useful so went to it.
+07/03/23
+=======
+L1 - Did the questions for the maths stuff, worked on pythonfunctions 1.4.10, also slowly learning japanense (Thanks character.AI)
+07/03/23
+=======
+L2 - PythonFunctions 1.4.10 1.4.11 work, more japanese learning.
+07/03/23
+=======
+L3 - Maths, Statistics. Representing data using blox plots and outliers
+07/03/23
+=======
+L4 - Maths, Mechanics, Vectors, Scalars F=MA
+07/03/23
+=======
+L5 - Played bloons
+08/03/23
+=======
+L1 - CS, SQL practise and more stuff
+08/03/23
+=======
+L2 - Maths, snowing a bit outside. Doubt it will stay though. Omputer annoyed needs restart, used phone for music (and made macro)
+08/03/23
+=======
+L3, L4 - IT, Coursework
+08/03/23
+=======
+Lunch - Web coding club although nothing wants to load
+08/03/23
+=======
+L5 - Just doing random stuff ig. Uploaded PythonFunctions 1.4.13
+09/03/23
+=======
+L1 - Maths Staticsts, recap on stuff. Practised on some other stuff
+09/03/23
+=======
+L2 - Maths Mechanics, Two particles stuff, Tension, Other stuff.
+09/03/23
+=======
+L3, L4 - Editing, did my own thing. Released two shorts. PythonFunctions 1.4.14
+09/03/23
+=======
+L5 - Database practise stuff
+09/03/23
+=======
+10/03/23 -- Snow day, no school. Online work
+13/03/23
+=======
+L1, L2 - Stuff. Maths daily, Experiment 003, Diaogue c#, Cs Finite State Machine stuff.
+13/03/23
+=======
+L3, L4 - Finite State Machine mini exam. Skeleton Program (this years)
+13/03/23
+=======
+L5 - It, coursework, some discussion.
+14/03/23
+=======
+L1 - Supported, not really much happened.
+14/03/23
+=======
+L2 - Python, attempting to put pygame in PythonFunctions
+14/03/23
+=======
+L3, L4 - Maths
+14/03/23
+=======
+L5 - Editing
+14/03/23
+=======
+15/03/23 -- Strike Day
+14/03/23
+=======
+L1, L2 - CS database exam. Start of NEA
+14/03/23
+=======
+L3, L4 - IT, end of teaching
+14/03/23
+=======
+L5 - Mine
+14/03/23
+=======
+16/03/23 -- Strike Day
+14/03/23
+=======
+L1, L2 - Not much
+14/03/23
+=======
+L3, L4 - It coursework (Aim A)
+14/03/23
+=======
+L5 - N/A
+17/03/23
+=======
+L1, L2 - IT coursework, some funny things about putting fish in a suit.
+17/03/23
+=======
+L3, L4 - My own stuff (filling this on monday midnight, kinda forgot...)
+17/03/23
+=======
+L5 - Maths
+20/03/23
+=======
+L1 - Work on SOT bot
+20/03/23
+=======
+L2 - More work on SOT bot, Work on rebranding discord server, work on SCCAB#2
+20/03/23
+=======
+L3 - CS, going through FSM test. And then turning machines, this is going to seem borring.
+20/03/23
+=======
+L4 - CS, Talking with Guy more random stuff
+20/03/23
+=======
+L5 - IT, some coursework, flipped computer, etc
+21/03/23
+=======
+L1 - Supported study, not relaly though
+21/03/23
+=======
+L2 - Finished off maths mini exam
+21/03/23
+=======
+L3 - Maths, went though exam thing
+21/03/23
+=======
+L4 - Maths finished off chapter 10
+21/03/23
+=======
+L5 - Editing, trying to get wifi to work.
+22/03/23
+=======
+L1 - CS, went though database exam
+22/03/23
+=======
+L2 - Played, install stuff to make rounds mod
+22/03/23
+=======
+L3, L4 - It, did work that was set
+22/03/23
+=======
+L5 - Editing.
+23/03/23
+=======
+L1 - Maths, Staticstics. Lesson went well. Brain worked out how to do vein diagrams again.
+23/03/23
+=======
+L2 - Maths, Mechanics. Bit slow processing (probably due to bit tired).
+23/03/23
+=======
+Break - Talked about IT database exam results, had joy.
+23/03/23
+=======
+L3 - Fighting against data and internet. Got bluescreened. Started work on queue in utils.cs in unity. Attempted to finishing writing NEA project proposal.
+23/03/23
+=======
+L4 - Finally got some stuff done, i think (somehow) having more people around boosted the signal? Anyway. Added Stack to utils.cs, Did some work on Aim A and zoomed though Posts, Hashtags and Quality. Sent Project Proposal to be reviewed.
+23/03/23
+=======
+L5 - Finishing going though mock
+24/03/23
+=======
+L1, L2 - IT, Had some funny conversations, Aim B+C work, Got more information about results, got more information about Aim A
+24/03/23
+=======
+L3, L4, Lunch, L5 - IT coursework aim A. Literally that's all i did. Had to speedrun half of it. Got it done in the end though.
+24/03/23
+=======
+27/03/23 -- Why did the clocks change yesterday?
+24/03/23
+=======
+L1 (started at 9:30, ended at 10:10)?
+24/03/23
+=======
+L2 - Clocks back to normal. Both lessons did some maths (not a lot). Fixed Stack.cs, Queue.cs. Coded SaveSystem.cs, Hash.cs. Fixed some voice control with SOTBot.
+24/03/23
+=======
+L3, L4 - CS. Literally stuff i already know, just did my own things. Finished (for now) SOTBot.
+24/03/23
+=======
+L5 - It, got feedback back, worked on making improvements.
+28/03/23
+=======
+L1 - Definitly "Supportive" Study. Just did maths revision
+28/03/23
+=======
+L2 - More maths revision, rebooted bot issue, cleaned up some stufff.
+28/03/23
+=======
+L3 - Maths, Staticstics fun with technologoy and google.
+28/03/23
+=======
+L4 - Maths, Mechanics, Test. Ran out of time, First question ok, second question better.
+28/03/23
+=======
+L5 - Editing
